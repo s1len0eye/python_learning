@@ -1,0 +1,9 @@
+#coding=gbk
+glossary = {'for': 'Ñ­»·',
+    'if': 'Ìõ¼þÅÐ¶Ï',
+    'string':'×Ö·û´®',
+}
+
+print("for: " + "\n\t" + glossary['for'])
+print("if: " + "\n\t" + glossary['if'])
+print("string: " + "\n\t" + glossary['string'])
