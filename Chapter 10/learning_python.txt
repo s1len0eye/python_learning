@@ -1,0 +1,3 @@
+In Python you can do a lot of things
+In Python you can read files from outside
+In Python you can make a dictionary consist of a person's profile

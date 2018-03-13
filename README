@@ -1,1 +1,9 @@
-These are the exercise codes in book Python Crash Course.
+这里包括Python Crash Course这本书中出现的代码及课后练习代码。
+
+注：
+
+1. 因为前面章节我只是进行简单复习，所以书中代码可能只有初始版本。
+
+2. 前十章的课后练习代码均有编号，因为第11章讲的是测试，为了方便模块导入，代码没有编码。
+
+3. 全部代码均为手打，使用python3运行过，但是可能有疏漏之处。
